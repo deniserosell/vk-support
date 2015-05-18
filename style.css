@@ -8,8 +8,7 @@
 }
 
 body {
-    background-image: url("http://p3.zdassets.com/hc/theme_assets/300620/200042432/Kalkonsallad_oskarp.png");
-    no-repeat center center fixed; 
+   background-image: url("http://p3.zdassets.com/hc/theme_assets/300620/200042432/Kalkonsallad_oskarp.png") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
